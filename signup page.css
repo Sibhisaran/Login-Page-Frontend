@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(245, 245, 245);
+    background-image: url(b.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+div{
+    animation: slideIn 0.5s forwards;
+    text-align: center;
+    margin-top: 50%;
+    background-color:transparent;
+    backdrop-filter: blur(20px);
+    padding: 30px;
+    margin-left: 35%;
+    margin-right: 25%;
+    margin-bottom: 10%;
+    margin-top: 10%;
+    border-radius: 10px;
+    box-shadow:0 0 20px  rgba(0, 0, 0, 0.74);
+}
